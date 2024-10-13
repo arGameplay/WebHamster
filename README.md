@@ -1,3 +1,3 @@
 # WebHamster
-Educational Hamster-Simulation designed for Python
+Educational Hamster-Simulation designed for Web
 
